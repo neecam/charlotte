@@ -200,13 +200,13 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   news:
     defaults:
       layout: post
     output: false
   projects:
-    output: false
+    output: true
   teachings:
     output: false
 
