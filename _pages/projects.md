@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Performance
+title: performances
 permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
